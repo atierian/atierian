@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Cofounder/CTO of [casco.com](casco.com)
+Cofounder/CTO of [casco.com](https://casco.com)
 
 #### Previously
 - Worked on [AWS Amplify](https://github.com/aws-amplify).
